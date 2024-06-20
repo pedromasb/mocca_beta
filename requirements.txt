@@ -5,3 +5,7 @@ astropy
 matplotlib
 radvel
 Jinja2==3.0.3
+emcee
+corner
+cython
+pdflatex
