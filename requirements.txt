@@ -10,3 +10,4 @@ corner
 cython
 pdflatex
 scipy
+h5py
