@@ -9,3 +9,4 @@ emcee
 corner
 cython
 pdflatex
+scipy
